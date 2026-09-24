@@ -28,4 +28,6 @@ Feel free to experiment with the colors and smoothing.
 
 https://sloganathan288-dev.github.io/hand-detection-write/
 
+try this in browser
+
 Ramadan Mubarak! 👐💻
