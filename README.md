@@ -13,7 +13,8 @@ Feel free to experiment with the colors and smoothing.
 
 ## Reference
 
-![Hand Pen Reference](reference.png)
+<img width="1866" height="860" alt="image" src="https://github.com/user-attachments/assets/3c8712ab-e10f-4360-8409-8d31a6c3ae65" />
+
 
 ## Technology
 
@@ -25,6 +26,6 @@ Feel free to experiment with the colors and smoothing.
 
 ## Live Demo
 
-[Open Hand Pen](https://sloganathan288-dev.github.io/hand-detection-write/)
+https://sloganathan288-dev.github.io/hand-detection-write/
 
 Ramadan Mubarak! 👐💻
